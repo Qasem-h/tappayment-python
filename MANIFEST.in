@@ -1,0 +1,4 @@
+include CHANGELOG.md, README.md
+recursive-include tappayent *
+recursive-exclude tappayent *.pyc
+recursive-exclude docs *.pyo
